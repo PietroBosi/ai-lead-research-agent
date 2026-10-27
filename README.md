@@ -133,10 +133,6 @@ run.py                 entry point
 - Runs locally from the command line; there is no web interface yet.
 - Not evaluated against real conversion data: no claims are made about time saved or sales results.
 
-## Design notes
-
-- **Why not n8n?** n8n was considered. The requirements here (deterministic scoring, evidence verification, replayable demo mode, unit tests) are easier to build and test in plain Python, and a visual workflow would not have added capability.
-- **Why Gemini?** Its free tier keeps the project at zero cost.
 
 ## Attribution and what is reused
 
