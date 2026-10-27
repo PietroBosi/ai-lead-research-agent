@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+_publish_upload/
+
+# private working files (not part of the public repository)
+MY_GUIDE_NOTION.md
+CLAUDE.md
+PROJECT_BRIEF.md
+docs/CV_TEXT.md
