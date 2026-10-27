@@ -1,0 +1,87 @@
+{
+  "company": "Chewy",
+  "website": "chewy.com",
+  "collected_at": "2026-10-26T22:57:13+00:00",
+  "docs": [
+    {
+      "source_type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chewy_(company)",
+      "retrieved_at": "2026-10-26T22:57:08+00:00",
+      "text": "Chewy, Inc. is an American online retailer of pet food and other pet-related products based in Plantation, Florida. Chewy went public in 2019 with the ticker symbol CHWY on the New York Stock Exchange."
+    },
+    {
+      "source_type": "wikipedia_infobox",
+      "url": "https://en.wikipedia.org/wiki/Chewy_(company)",
+      "retrieved_at": "2026-10-26T22:57:11+00:00",
+      "text": "Number of employees: 18,100 (2024)"
+    },
+    {
+      "source_type": "news",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTzVsak83ZWJiTVNTRmRJekJvZDBPRl8zcVFSbkhJZVpFOEdpRHBnekhhZ3pLQUdGOEZ4NHA2ZUlXOWIzdmZNRWVCTk1sTWJPMlN2ejI3M0xsa1BDaEhCUkNaRExHTTJORVRpUEZGeUZBMTMxZEx0SUhHNGxXWGxiZ2IyM1AzcU81MTdRWWZXNUJvejg?oc=5",
+      "retrieved_at": "2026-10-26T22:57:13+00:00",
+      "text": "Chewy (CHWY) vs. Petco (WOOF): Proven Growth Story or Turnaround Bet? - Yahoo Finance (published Tue, 22 Sep 2026 07:00:00 GMT)"
+    },
+    {
+      "source_type": "news",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGxrenZZMDdWYnZqa0tzQ1FtN0lOYl9QSjZzcUV3dkNuTkFLNkdrWDdGZnBkVC14aFNUNTh1ZlBWdFVCR2QtMXdUTUFHNGx0Um1SMVZlSjA0ZnEwZTJvX0p4NWdieDNoaVl3eFA1NGdyUmNyYUtqNGtZU2lpeFg1c3ZiUzJCVmd6VmJ0ajNFTDNvbFd1cEhwZHJiXzhMRU53cUsyWnZlbUJqY3M?oc=5",
+      "retrieved_at": "2026-10-26T22:57:13+00:00",
+      "text": "Chewy Shares Slide as Consumers Pare Back Spending on Pet Treats - WSJ (published Thu, 10 Sep 2026 07:00:00 GMT)"
+    },
+    {
+      "source_type": "news",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGVLcTg5NnVJZ2tMNjRqR192MFZRZXJIeWw3RERpNlJfMU8tcUE5dDdKZEJuVEUxbVNuWDNQamN1Y05BUmhjRm9vOUl6em1RY1pBT3RWek1Ddm9LNUxhU1hsd0dGMHphSS1rVFM3QXJQV0k5dXlRMThLbVhQN2JIUUNFOXQ4OW5ZOGViU3J6OTJFNjAybFpHT3QzYkZ5ZDQySlZIZXpVOA?oc=5",
+      "retrieved_at": "2026-10-26T22:57:13+00:00",
+      "text": "3 tips from Chewy’s COO on gaining a last-mile delivery edge - Supply Chain Dive (published Fri, 18 Sep 2026 07:00:00 GMT)"
+    },
+    {
+      "source_type": "news",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTkpfamlpZXJfVXRmUDR3T1RXcklHU0taNW9RNzFiaGlNUDhkTnFBeEoxZTVZUWhjbi16TVJlWklCSHBSQ2ZUeEFwMTgyQmxYbFhZeGhGZ0VKdUpvLWdqZ2k5ZnQyMDBQUVNVNUZVV0steHJ4eFhLdzhOd3A1YUE2RlpKSnA1SVRteS1mY0s1bVA2UmpZTXoycGxuWmhENUFEUnIwYkJ5Z1FCUQ?oc=5",
+      "retrieved_at": "2026-10-26T22:57:13+00:00",
+      "text": "Chewy’s beta AI assistant is already solving common customer issues, CEO says - CX Dive (published Wed, 09 Sep 2026 07:00:00 GMT)"
+    },
+    {
+      "source_type": "news",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ3pkMVktanp6QnoyMnpvWFBPYk9MV1Q4ZU02cktob1lVSDRWYU1jczVncXhkQjZva2RnYUxFNXN0N19TNk1NSC1MZm4tNGdRU1hqT3hZYXNnd3pXbUJBZTUtT3lFMlM3ckVnLUZIWjVDQWRxejhYWURFWmdsMWhYTy1JRUtMc1A2Q0ZUTUstZV9zX3dQM2VsX0E1UzF5OGhVLVE?oc=5",
+      "retrieved_at": "2026-10-26T22:57:13+00:00",
+      "text": "The pet I’ll never forget: Chewy the dog, who loves gardening – and saving lives - The Guardian (published Mon, 08 Jun 2026 07:00:00 GMT)"
+    },
+    {
+      "source_type": "news",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyWkljbnhOX1Y2bUdNVUFBSnNqdHZCVndPNk5tSlllb05TVFNGVzJQa2Q3WXlfenlFYk11N2NxMHpUclF1cFZIYWtuWXN0alFQY01LczlPWEM4YlhNYXZ0R05kendpZVFSRVE?oc=5",
+      "retrieved_at": "2026-10-26T22:57:13+00:00",
+      "text": "Vuong Quoc “Chewy” Hoang Obituary Sep 12, 2026 - Bradford O'Keefe Funeral Homes (published Sat, 12 Sep 2026 07:00:00 GMT)"
+    }
+  ],
+  "facts_raw": {
+    "business_description": {
+      "value": "Chewy, Inc. is an American online retailer of pet food and other pet-related products based in Plantation, Florida.",
+      "evidence": "Chewy, Inc. is an American online retailer of pet food and other pet-related products based in Plantation, Florida."
+    },
+    "industry": {
+      "value": "online_retail",
+      "evidence": "Chewy, Inc. is an American online retailer of pet food and other pet-related products based in Plantation, Florida."
+    },
+    "sells_physical_products": {
+      "value": "yes",
+      "evidence": "Chewy, Inc. is an American online retailer of pet food and other pet-related products based in Plantation, Florida."
+    },
+    "sales_channels": {
+      "value": "online_only",
+      "evidence": "Chewy, Inc. is an American online retailer of pet food and other pet-related products based in Plantation, Florida."
+    },
+    "company_size": {
+      "value": "1000+",
+      "evidence": "Number of employees: 18,100 (2024)"
+    },
+    "growth_signal": {
+      "value": "none",
+      "evidence": "Chewy Shares Slide as Consumers Pare Back Spending on Pet Treats - WSJ (published Thu, 10 Sep 2026 07:00:00 GMT)"
+    }
+  },
+  "draft": {
+    "summary": "Chewy, Inc. is an American online retailer of pet food and other pet-related products based in Plantation, Florida. The company has 18,100 employees as of 2024.",
+    "subject": "Inventory forecasting for Chewy",
+    "body": "Hi [Recipient name],\n\nChewy, Inc. is an American online retailer of pet food and other pet-related products based in Plantation, Florida.\n\nStockSense provides inventory forecasting software that predicts demand per product and warns retailers before items run out of stock or pile up as excess inventory, helping you turn past sales into weekly reorder recommendations to avoid stockouts and reduce tied-up cash.\n\nWould you be open to a brief conversation about your inventory workflows?\n\nThe StockSense Team"
+  },
+  "model": "gemini-3.5-flash-lite"
+}

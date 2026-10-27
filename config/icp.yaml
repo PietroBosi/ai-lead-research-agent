@@ -1,0 +1,98 @@
+# Ideal Customer Profile (ICP) and scoring rules.
+# Edit this file to change who counts as a good lead. No code changes needed.
+#
+# How scoring works:
+#   1. The AI fills a fact sheet (fields below) and must quote evidence for each fact.
+#   2. Facts without verifiable evidence become "unknown" and score 0 points.
+#   3. For each criterion, the fact value is looked up in `points` to get its score.
+#   4. Total score = sum of points (max 100). Confidence = share of weight with known facts.
+
+seller:
+  company: StockSense (fictional demo company)
+  product: >
+    Inventory forecasting software that predicts demand per product and warns
+    retailers before items run out of stock or pile up as excess inventory.
+  value_proposition: >
+    Fewer stockouts and less cash tied up in unsold inventory, by turning past
+    sales into weekly reorder recommendations.
+  sender: The StockSense Team
+  ideal_customer: >
+    Online or omnichannel retailers and consumer brands that sell physical
+    products, with roughly 50 to 1,000 employees, and recent growth activity.
+
+# Score cut-offs for the tier shown in the report.
+tiers:
+  high: 70      # score >= 70  -> "High priority"
+  medium: 45    # score >= 45  -> "Medium", otherwise "Low / not a fit"
+
+# Business rules that override the point sum. If a verified fact matches, the total
+# score cannot exceed max_score. Each applied rule is shown in the report.
+caps:
+  - field: growth_signal
+    value: restructuring_or_decline
+    max_score: 55
+    reason: layoffs, closures or an exit from the core business make a new purchase unlikely
+  - field: industry
+    value: online_marketplace
+    max_score: 40
+    reason: a marketplace platform does not hold inventory itself, so the product does not fit
+
+# Leads below this score get a research summary but NO email draft.
+outreach_min_score: 60
+
+# If known facts cover less than this share of total weight, the lead is flagged
+# "low confidence" and should be checked by a human before outreach.
+min_confidence: 0.6
+
+# Weights must add up to 100. `points` maps each allowed fact value to its score
+# (each value must be <= weight).
+criteria:
+  - id: industry_fit
+    label: Industry fit
+    field: industry
+    weight: 30
+    points:
+      online_retail: 30
+      consumer_goods_brand: 22
+      online_marketplace: 8     # platform itself holds no inventory; sellers do
+      b2b_distribution_wholesale: 12
+      software_or_services: 0
+      other: 0
+
+  - id: sells_physical_products
+    label: Sells physical products
+    field: sells_physical_products
+    weight: 15
+    points:
+      "yes": 15
+      "no": 0
+
+  - id: sales_channels
+    label: Sales channels (inventory complexity)
+    field: sales_channels
+    weight: 20
+    points:
+      online_and_stores: 20
+      online_only: 16
+      b2b_only: 8
+      stores_only: 8
+
+  - id: company_size
+    label: Company size
+    field: company_size
+    weight: 20
+    points:
+      "1-50": 6
+      "51-200": 14
+      "201-1000": 20
+      "1000+": 12
+
+  - id: growth_signal
+    label: Recent growth or change signal
+    field: growth_signal
+    weight: 15
+    points:
+      expansion_or_launch: 15
+      funding: 15
+      restructuring_or_decline: 3
+      none: 0

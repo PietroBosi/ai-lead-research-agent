@@ -1,0 +1,85 @@
+{
+  "company": "Etsy",
+  "website": "etsy.com",
+  "collected_at": "2026-10-26T22:57:31+00:00",
+  "docs": [
+    {
+      "source_type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Etsy",
+      "retrieved_at": "2026-10-26T22:57:27+00:00",
+      "text": "Etsy, Inc. is an American e-commerce company focused on handmade or vintage items and craft supplies. Its marketplace includes categories such as jewelry, apparel, home decor, furniture, toys, and art. Items described as vintage must be at least 20 years old. The platform provides sellers with individual storefronts where they list their goods for a fee of US$0.20 per item. Since 2013, the company has allowed the sale of mass-manufactured items."
+    },
+    {
+      "source_type": "wikipedia_infobox",
+      "url": "https://en.wikipedia.org/wiki/Etsy",
+      "retrieved_at": "2026-10-26T22:57:30+00:00",
+      "text": "Number of employees: 2,400"
+    },
+    {
+      "source_type": "news",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTTdYYVdqODdCNU5BbmVvekNKRGdZanduWXpncXVDZHdORm5HRGZCU1lSZ25jbk5jT1lkVFpjay1uRk5nWDR6SC1qYjItRGxIYlFyckg3eDVMcEZPdC1UUjVJODRVRDl3MGpLWEVnRDllUG1FLThjcXpCMnBfRnplb0dpcE85ZU82SER6MEZqc1hmQnROdlVrQWpWcEphZGlWS3d6bHY2c9IBrAFBVV95cUxPQ0gydG9zSThVYWlzWHlhUDF2ZFFrVF9nMEpnTHl4dVZtNHJDNEZTZWxrbWRXdzRhRjN0a0R6NTV6blE3WTV6YWZuUEhCalNjUnRiOUJWYkNjelNBZkpBVFVrblpFMlZWSjhPS29RaVVLaUdLVFZFcDFfbFJmUXBsSXNhWWhKZy1KV25FS25VTU1ZQXh1T3gyRTZaa3lfeUMxLUVxdWs2YkZ0c28x?oc=5",
+      "retrieved_at": "2026-10-26T22:57:31+00:00",
+      "text": "Etsy bans AI-generated recipes and patterns from its online marketplace - CNBC (published Thu, 22 Oct 2026 23:45:50 GMT)"
+    },
+    {
+      "source_type": "news",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWh3SWlrVGlSZDBVdnBWajVZS3N1ejdBVVN6SlY2V3JIdVRQOVc2VGFtX1Y1MHNsblFON3pWVkhZbHU4WmtoQWZWNlZJQUZLMDlkMTEyNDBycEd1Y3BMMXRHUDNnSHZMNHdFY3FycS12R080bTZ5TEVfQmFzOE1ONzJ5WlpMS0trVFV6T3lpRFo2WVRiSUpOWW5hZDlZczgtdnhYeEVZRnBrQQ?oc=5",
+      "retrieved_at": "2026-10-26T22:57:31+00:00",
+      "text": "Etsy lays off 12% of workforce as part of restructuring plan - Reuters (published Wed, 05 Aug 2026 07:00:00 GMT)"
+    },
+    {
+      "source_type": "news",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd1lSenhxYy02STZiYU9mcGtTbGtIZXBXNVhVTUR1MmlBVjY1RnFQbWhqSXVnbzhEOGtJUW5SV1VBLUJlOHQ0SUxudk91b3FCaG1KU3dlb2xhT0NZd3BHZmhyMWozVVVROWJiZU4yakhqM01iczBrQU8wc2JLNTJhT3NmRWZYZ1B4Wk9SdVVWcXVFOXFKNXhv?oc=5",
+      "retrieved_at": "2026-10-26T22:57:31+00:00",
+      "text": "Etsy to restrict AI-generated content in effort to combat seller slop - NBC News (published Fri, 23 Oct 2026 14:39:40 GMT)"
+    },
+    {
+      "source_type": "news",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZTRWUUxONzlXSUR2SEdjTnowN1dZZTd6V1NnY1FzRVQzVEhzalFsWFRlY3dEbUpteVN6bXJsS1Via0ZvM0ZpUV9UT2l4bGhwcUUxSE04VEo2TjFMdHJhdjdJMTZFNnJLYklfUm9tZW1Uck44WDJlQ05LcW9Ma1M2SDdCYjZkcTVKaHFKUFFkbG5zSUN4SnlrbXNKendMdFE?oc=5",
+      "retrieved_at": "2026-10-26T22:57:31+00:00",
+      "text": "Etsy Aims to Get More Personal and Boost Business With AI - WSJ (published Tue, 29 Sep 2026 07:00:00 GMT)"
+    },
+    {
+      "source_type": "news",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYXpZTmdYSC1qUWhwUGxDdnBpSTZ4QzcyclRURWFKWnNTbGczSjhwRWpSNzM0SmVray1vdUpuNDEzaVV5Q2JUZGtuVU91LVpReWFzRzFlaTl6bXlRVW9MeTVKb1pyZFF5N2FSMi1KcnRFVnRLa0liOU1RelhjdHB2SGgxdUJsMUQ2cVhnalFGeXpRZw?oc=5",
+      "retrieved_at": "2026-10-26T22:57:31+00:00",
+      "text": "Etsy debuts app in ChatGPT - Retail Dive (published Thu, 14 May 2026 07:00:00 GMT)"
+    },
+    {
+      "source_type": "news",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcFVHY2FFRHVNMG9abVVKcjBrUUl1WllaMHJQZ2gxM3htN0tuQ0dWSVNPajJTUnVFUHQxNkFnaVItS0hDX1kyaXVld24xWk9SWnhud1hBVUpHX3J1NmY3Sjh6OWJuVWZPelhYQ2JTRGhqQkdWdUwxa1FuY1ltX0dNUlZ1S05ydTEzYlcw?oc=5",
+      "retrieved_at": "2026-10-26T22:57:31+00:00",
+      "text": "Should I Buy an Area Rug on Etsy? - The New York Times (published Wed, 08 Jul 2026 07:00:00 GMT)"
+    }
+  ],
+  "facts_raw": {
+    "business_description": {
+      "value": "Etsy is an American e-commerce company focused on handmade or vintage items and craft supplies.",
+      "evidence": "Etsy, Inc. is an American e-commerce company focused on handmade or vintage items and craft supplies."
+    },
+    "industry": {
+      "value": "online_marketplace",
+      "evidence": "Its marketplace includes categories such as jewelry, apparel, home decor, furniture, toys, and art."
+    },
+    "sells_physical_products": {
+      "value": "yes",
+      "evidence": "Its marketplace includes categories such as jewelry, apparel, home decor, furniture, toys, and art."
+    },
+    "sales_channels": {
+      "value": "online_only",
+      "evidence": "Etsy bans AI-generated recipes and patterns from its online marketplace - CNBC (published Thu, 22 Oct 2026 23:45:50 GMT)"
+    },
+    "company_size": {
+      "value": "1000+",
+      "evidence": "Number of employees: 2,400"
+    },
+    "growth_signal": {
+      "value": "restructuring_or_decline",
+      "evidence": "Etsy lays off 12% of workforce as part of restructuring plan - Reuters (published Wed, 05 Aug 2026 07:00:00 GMT)"
+    }
+  },
+  "draft": {
+    "summary": "Etsy is an American e-commerce company focused on handmade or vintage items and craft supplies. Its marketplace includes categories such as jewelry, apparel, home decor, furniture, toys, and art. The company has 2,400 employees and is undergoing a restructuring plan that includes laying off 12% of its workforce."
+  },
+  "model": "gemini-3.5-flash-lite"
+}

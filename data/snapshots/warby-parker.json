@@ -1,0 +1,93 @@
+{
+  "company": "Warby Parker",
+  "website": "warbyparker.com",
+  "collected_at": "2026-10-26T22:56:55+00:00",
+  "docs": [
+    {
+      "source_type": "website",
+      "url": "https://www.warbyparker.com/",
+      "retrieved_at": "2026-10-26T22:56:50+00:00",
+      "text": "Eyewear Online | We've Got Your Eyes Covered | Warby Parker | Shop affordable, high-quality glasses, sunglasses, and contacts at Warby Parker. Frames starting at $95, including prescription lenses. | New frames with fall-ish polish Start with a quiz Shop eyeglasses Shop Iris Edition 20% off first contacts order Free shipping Free 30-day returns Vision benefits accepted New frames with fall-ish polish Start with a quiz Shop eyeglasses Shop Iris Edition Free shipping and free 30-day returns Dreamy, handcrafted details Shop Annie The best decade for minimalism Shop the ’90s Edit Shop all new arrivals Shop all Slide 1 of 3 Intelligent Eyewear is (almost) here Learn more Shop all new arrivals Shop all Slide 1 of 8 Try on Daisy $95 Select lenses and buy Go to Daisy Amarena page Try on Bix $95 Select lenses and buy Go to Bix Umber Crystal page Try on Boggs $95 Select lenses and buy Go to Boggs Jet Black page Try on Esme $95 Select lenses and buy Go to Esme Confetti Tortoise page Try on Esme $95 Select lenses and buy Go to Esme Sesame Tortoise page Try on Dalston $95 Select lenses and buy Go to Dalston Ristretto Tortoise page Try on Monica $95 Select lenses and buy Go to Monica Ristretto Tortoise page Try on Putney $95 Select lenses and buy Go to Putney Licorice Crystal page Slide 1 of 8 Try on Daisy $95 Select lenses and buy Go to Daisy Amarena page Try on Bix $95 Select lenses and buy Go to Bix Umber Crystal page Try on Boggs $95 Select lenses and buy Go to Boggs Jet Black page Try on Esme $95 Select lenses and buy Go to Esme Confetti Tortoise page Try on Esme $95 Select lenses and buy Go to Esme Sesame Tortoise page Try on Dalston $95 Select lenses and buy Go to Dalston Ristretto Tortoise page Try on Monica $95 Select lenses and buy Go to Monica Ristretto Tortoise page Try on Putney $95 Select lenses and buy Go to Putney Licorice Crystal page"
+    },
+    {
+      "source_type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Warby_Parker",
+      "retrieved_at": "2026-10-26T22:56:52+00:00",
+      "text": "Warby Parker Inc. is an American eyewear brand and retailer of prescription glasses, contact lenses, and sunglasses, headquartered in New York City. It also offers eye exams. Originally founded in 2010 as an online-only retailer, the company now generates most of its revenue from its physical retail stores."
+    },
+    {
+      "source_type": "wikipedia_infobox",
+      "url": "https://en.wikipedia.org/wiki/Warby_Parker",
+      "retrieved_at": "2026-10-26T22:56:54+00:00",
+      "text": "Number of employees: 4,036 (2025)"
+    },
+    {
+      "source_type": "news",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmVMcWlhaThaV0pCc2lUSWYtVmFEcnBYNVZ2bkxlSzN3Q2NlRVpQSWk5WjJRSzVMWTFFY2lTeDcyOWRKTlZZVWxRN1dkdmh5cEZjMGk1YlRfeHlKWVV1WWZTbmg0aEE4WVRPWWo3ZmUySDFUNlFxZ0VEejc4VEFVLWpqcTRHZUE1d0Zyam9fTGZob2lHTTZVNTVWMTRuWWdsS3VJ?oc=5",
+      "retrieved_at": "2026-10-26T22:56:55+00:00",
+      "text": "Warby Parker, Google to launch AI-powered smart glasses in 2026 - Reuters (published Mon, 08 Dec 2025 08:00:00 GMT)"
+    },
+    {
+      "source_type": "news",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWkRIWTcwNHJYTzlRNHBLWXFXZ0NkdXBKQklBM0tBWFNmMjU5VDZHckxyTXVDcmtGbVlYOHZFeUpfVXBNclRfNk9NemZEYnFJcEM2Q0VSLVlkOGpVVWl1U243Rnl6R2ZVR2Y5aWZsdFI1MDBETnFkREdGdkhUeEljblJ3?oc=5",
+      "retrieved_at": "2026-10-26T22:56:55+00:00",
+      "text": "Warby Parker Opens At The Village At Newtown - Patch (published Wed, 08 Jul 2026 07:00:00 GMT)"
+    },
+    {
+      "source_type": "news",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa2dVUTAweWttOHJRaUNCcE1ILTVNRy1UYXhoSFo5OEtfd3hnenNUWmdtMkZybEQ0ckN0dnhleld5OHBLa3lUMmc1RG5UYzhweXBuMWQ3a3J6OTI0emR2cDFNNjB6a2pWNVZtQ2lHbEQ4YzhPeHlEVzNLT0hGWE9aMndWTWo4d2dSQXppN0xMbkdHOWRCTnlMMU9B?oc=5",
+      "retrieved_at": "2026-10-26T22:56:55+00:00",
+      "text": "Warby Parker (NYSE:WRBY) Misses Q2 CY2026 Revenue Estimates - Yahoo Finance (published Thu, 06 Aug 2026 07:00:00 GMT)"
+    },
+    {
+      "source_type": "news",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NYTlwYWkyMDJWa1dIUTJNVVRlNzh4VElqdkdNTGV0bjBwRFk2OV9PUjJMNTFyX3EtZzJhTnk0UjZZdVNtM3RzcklTMVpnY3JrNm53bGxpc3dfZUZNSWNhdkNjZzNjdXhuUEdLNkVGWkEtME5XYkFweDRZMHU?oc=5",
+      "retrieved_at": "2026-10-26T22:56:55+00:00",
+      "text": "Warby Parker expands with new Acton store - Worcester Business Journal (published Wed, 01 Jul 2026 07:00:00 GMT)"
+    },
+    {
+      "source_type": "news",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWUhKaWdBTHhBMGxJRURRMlFtRjcyN283T1NlbG1xdVZjNVV2ZnlJaW02dnhEMEhucDE5NVd3Rk5WZmVKeW0wWkNNM1d3UGh2UjVvQ0J3R0l6R1l0RERINkxURGpWVHlONFYxaWdwQjVEWDlPejhhdkRtbkJmRkVmWE5TRG1JMHhqUTZiVWNYS2Q2N2FYeFpOTg?oc=5",
+      "retrieved_at": "2026-10-26T22:56:55+00:00",
+      "text": "Warby Parker Swings to Profit on Tariff Refund - WSJ (published Thu, 06 Aug 2026 07:00:00 GMT)"
+    },
+    {
+      "source_type": "news",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdzJ5cERvZUlTaXMtYlNrZ3A3TFVJc09Hc1dZdmduSUZ6aVNqemY2TXBmR2tFX0JSQmltcGhhOV9ZYjVBSlBfUkNUQ3ZhV3pKY3NlWWVXYmE0UlFzT29kbmtKdlhUY3FjSlRLQVJlejhfeE81ZU5uZkc2dHpvMVJQV3RCMWZlR0JMejVyV01UTXAwZGdQSmxZNlVWSlg3bEF6MDFKVUhkNkNjcHJTTFc4bjlCd21kZG9oUU5oMU1R?oc=5",
+      "retrieved_at": "2026-10-26T22:56:55+00:00",
+      "text": "Spike Jonze Teams Up With Warby Parker to Bring Back His Favorite Sold-Out Styles - Rolling Stone (published Tue, 01 Sep 2026 07:00:00 GMT)"
+    }
+  ],
+  "facts_raw": {
+    "business_description": {
+      "value": "Warby Parker is an American eyewear brand and retailer of prescription glasses, contact lenses, and sunglasses.",
+      "evidence": "Warby Parker Inc. is an American eyewear brand and retailer of prescription glasses, contact lenses, and sunglasses, headquartered in New York City."
+    },
+    "industry": {
+      "value": "consumer_goods_brand",
+      "evidence": "Warby Parker Inc. is an American eyewear brand and retailer of prescription glasses, contact lenses, and sunglasses, headquartered in New York City."
+    },
+    "sells_physical_products": {
+      "value": "yes",
+      "evidence": "Shop affordable, high-quality glasses, sunglasses, and contacts at Warby Parker."
+    },
+    "sales_channels": {
+      "value": "online_and_stores",
+      "evidence": "Originally founded in 2010 as an online-only retailer, the company now generates most of its revenue from its physical retail stores."
+    },
+    "company_size": {
+      "value": "1000+",
+      "evidence": "Number of employees: 4,036 (2025)"
+    },
+    "growth_signal": {
+      "value": "expansion_or_launch",
+      "evidence": "Warby Parker Opens At The Village At Newtown"
+    }
+  },
+  "draft": {
+    "summary": "Warby Parker is an American eyewear brand and retailer of prescription glasses, contact lenses, and sunglasses. The company generates most of its revenue from its physical retail stores and recently opened a new location at The Village At Newtown.",
+    "subject": "Optimizing inventory forecasting for Warby Parker",
+    "body": "Hi [Recipient name],\n\nI saw that Warby Parker recently expanded with the opening at The Village At Newtown. StockSense helps retailers like you turn past sales into weekly reorder recommendations, helping reduce stockouts and free up cash tied in unsold goods. Would you be open to a brief chat on how we can support your growing store network?\n\nThe StockSense Team"
+  },
+  "model": "gemini-3.5-flash-lite"
+}
